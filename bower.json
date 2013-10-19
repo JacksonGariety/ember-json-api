@@ -1,0 +1,10 @@
+{
+  "name": "ember-json-api",
+  "version": "0.0.4",
+  "main": "dist/json_api_adapter.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
